@@ -2,11 +2,11 @@
 
 ## Project Name
 
-(To be defined)
+Plumer
 
 ## Team Members
 
-* PROF. ME. BRENO FELIX DE SOUSA
+* ERANANI PLUMER SANTOS PINTO
 
 ## Repository Structure
 
